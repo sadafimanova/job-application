@@ -1,0 +1,144 @@
+{
+    "recentJobs": [
+      {
+        "id": 1,
+        "title": "Front-End Web Developer",
+        "company": "ABC Company",
+        "location": "New York, NY",
+        "datePosted": "2023-04-16",
+        "description": "We are seeking a skilled Front-End Web Developer to join our team. The ideal candidate will be proficient in HTML, CSS, JavaScript, and have experience with modern front-end frameworks such as React or Vue. You should have experience working with cross-functional teams and be able to implement designs that are pixel perfect.",
+        "requirements": [
+          "3+ years of experience in front-end web development",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with modern front-end frameworks such as React or Vue",
+          "Experience working with cross-functional teams"
+        ],
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "id": 2,
+        "title": "Data Analyst",
+        "company": "XYZ Inc.",
+        "location": "San Francisco, CA",
+        "datePosted": "2023-04-15",
+        "description": "We are seeking a highly analytical and detail-oriented Data Analyst to join our team. The ideal candidate will have experience working with large data sets, be proficient in SQL and Excel, and have strong problem-solving skills. You should also have excellent communication skills and be able to present complex data in a clear and concise manner.",
+        "requirements": [
+          "3+ years of experience in data analysis",
+          "Proficient in SQL and Excel",
+          "Experience working with large data sets",
+          "Strong problem-solving skills",
+          "Excellent communication skills"
+        ],
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "id": 3,
+        "title": "Digital Marketing Manager",
+        "company": "123 Marketing Agency",
+        "location": "Seattle, WA",
+        "datePosted": "2023-04-14",
+        "description": "We are looking for a results-driven Digital Marketing Manager to lead our marketing team. The ideal candidate will have experience developing and implementing digital marketing strategies, be proficient in SEO, SEM, and social media advertising, and have excellent project management skills.",
+        "requirements": [
+          "5+ years of experience in digital marketing",
+          "Proficient in SEO, SEM, and social media advertising",
+          "Experience developing and implementing digital marketing strategies",
+          "Excellent project management skills"
+        ],
+        "applyLink": "https://example.com/apply"
+      },
+      {
+        "title": "Web Developer",
+        "company": "ABC Company",
+        "location": "New York, NY",
+        "description": "We are seeking an experienced Web Developer to join our team.",
+        "requirements": "Bachelor's degree in Computer Science or equivalent experience",
+        "applyLink": "https://www.example.com/apply"
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "XYZ Agency",
+        "location": "Los Angeles, CA",
+        "description": "We are looking for a creative and talented Graphic Designer to join our team.",
+        "requirements": "Strong design portfolio and experience with Adobe Creative Suite",
+        "applyLink": "https://www.example.com/apply"
+      },
+      {
+        "title": "Marketing Manager",
+        "company": "123 Corporation",
+        "location": "Chicago, IL",
+        "description": "We are seeking a Marketing Manager to lead our marketing team and drive growth.",
+        "requirements": "Bachelor's degree in Marketing or related field, 5+ years of marketing experience",
+        "applyLink": "https://www.example.com/apply"
+      }
+    ],
+      "jobs": [
+        {
+          "title": "Front-end Developer",
+          "company": "ABC Company",
+          "location": "New York, NY",
+          "description": "We're looking for an experienced front-end developer to join our team. The ideal candidate will have a solid understanding of HTML, CSS, and JavaScript, as well as experience with front-end frameworks like React and Angular.",
+          "requirements": "3+ years of experience as a front-end developer; familiarity with modern front-end frameworks; excellent problem-solving skills",
+          "applyLink": "https://www.example.com/jobs/frontend-developer"
+        },
+        {
+          "title": "UX Designer",
+          "company": "XYZ Agency",
+          "location": "San Francisco, CA",
+          "description": "We're seeking a talented UX designer to help us create beautiful, user-friendly interfaces for our clients. The ideal candidate will have experience with wireframing, prototyping, and user testing, as well as a solid understanding of design principles.",
+          "requirements": "2+ years of experience as a UX designer; proficiency with design tools like Sketch or Figma; excellent communication skills",
+          "applyLink": "https://www.example.com/jobs/ux-designer"
+        },
+        {
+          "title": "Data Scientist",
+          "company": "123 Corporation",
+          "location": "Chicago, IL",
+          "description": "We're seeking a data scientist to help us analyze large data sets and extract insights that will inform our business decisions. The ideal candidate will have experience with statistical analysis, machine learning, and data visualization, as well as strong programming skills in Python or R.",
+          "requirements": "5+ years of experience as a data scientist; proficiency with statistical analysis tools like R or Python; experience with machine learning and data visualization",
+          "applyLink": "https://www.example.com/jobs/data-scientist"
+        },
+        {
+          "title": "Full-stack Developer",
+          "company": "Acme Inc.",
+          "location": "Austin, TX",
+          "description": "We're seeking a full-stack developer to help us build web applications for our clients. The ideal candidate will have experience with both front-end and back-end development, as well as familiarity with frameworks like Node.js and Ruby on Rails.",
+          "requirements": "3+ years of experience as a full-stack developer; proficiency with front-end and back-end technologies; familiarity with Node.js and Ruby on Rails",
+          "applyLink": "https://www.example.com/jobs/full-stack-developer"
+        },
+        {
+          "title": "Marketing Manager",
+          "company": "Big Corp.",
+          "location": "Los Angeles, CA",
+          "description": "We're seeking a marketing manager to help us develop and execute marketing campaigns for our products. The ideal candidate will have experience with digital marketing channels like email, social media, and search, as well as a solid understanding of marketing analytics.",
+          "requirements": "5+ years of experience in marketing; proficiency with digital marketing channels; experience with marketing analytics",
+          "applyLink": "https://www.example.com/jobs/marketing-manager"
+        },
+        {
+          "title": "Software Engineer",
+          "company": "Tech Company",
+          "location": "San Francisco, CA",
+          "description": "We are seeking a talented Software Engineer to help build cutting-edge software products.",
+          "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of software development experience",
+          "applyLink": "https://www.example.com/apply",
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "Data Analytics Inc.",
+          "location": "Seattle, WA",
+          "description": "We are looking for a skilled Data Analyst to analyze large data sets and provide insights.",
+          "requirements": "Bachelor's degree in Statistics or related field, 2+ years of data analysis experience",
+          "applyLink": "https://www.example.com/apply",
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "title": "UX Designer",
+          "company": "Design Agency",
+          "location": "New York, NY",
+          "description": "We are seeking a talented UX Designer to design engaging user experiences for our clients.",
+          "requirements": "Strong portfolio of UX design work and experience with design tools such as Sketch and Figma",
+          "applyLink": "https://www.example.com/apply",
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+  }
+  
